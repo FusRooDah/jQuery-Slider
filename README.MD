@@ -11,7 +11,7 @@ This software is free software and carries a MIT license.
 
 Install
 -------
-It creates a slideshow with an click function that scrolls the images to the left. When the plugin reaches the last picture it starts over on the first image again. This is a very effective plugin that dosent require that much of the browser and it dosen't slow down the loading speed of the page.
+This plugin creates a slideshow with an click function that scrolls the images to the left. When the plugin reaches the last picture it starts over on the first image again. This is a very effective plugin that dosent require that much of the browser and it dosen't slow down the loading speed of the page.
 
 ## Why use this plugin over others?
 
