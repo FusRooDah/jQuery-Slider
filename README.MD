@@ -19,7 +19,7 @@ This plugin is very easy to use it dosent take alot of knowledge to use it. Its 
 
 To use it you simply include the javascript file:
 
-                            <script src="gallery.js"></script>
+                            <script src="js/slider.js"></script>
 
 After that you create the div box where you want the slider to be:
 
